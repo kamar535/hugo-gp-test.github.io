@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/2025'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+
+
+# https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment/index.html#public-web-server-from-subdirectory
+relativeURLs = false
