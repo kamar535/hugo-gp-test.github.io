@@ -6,3 +6,7 @@ theme = 'ananke'
 
 # https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment/index.html#public-web-server-from-subdirectory
 relativeURLs = false
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
