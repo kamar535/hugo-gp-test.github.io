@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 
+publishDir = 'public/2025/'
 
 # https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment/index.html#public-web-server-from-subdirectory
 relativeURLs = false
